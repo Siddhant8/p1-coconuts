@@ -12,3 +12,12 @@ Night at the Museum: A spring website will be created through a local host. Ther
 ## Big Ticket Items ##
 
 
+
+### Members' Github Links ###
+| Name | ID | Link | 
+| --- | --- | --- | 
+| Siddhant Ranka | Siddhant8 | https://github.com/Siddhant8 |
+| Aidan Rosen | AidanRosen |https://github.com/AidanRosen | 
+| Andrew Hale| Andrew H06 |https://github.com/AndrewH06 |
+
+
