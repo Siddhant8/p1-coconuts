@@ -6,6 +6,7 @@ Summary: Our project involves creating a tea shop web server using Spring, and i
 
 ## Delivery Plans and Content ##
 Friday Plans: Update the scrum board with goals completed for the week to achieve the necessary goals for Night at the Museum. 
+
 Night at the Museum: A spring website will be created through a local host. There will be a button to click for the tea shop, JukeBox, and coronavirus calculator. 
 
 ## Big Ticket Items ##
