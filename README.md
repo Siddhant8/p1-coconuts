@@ -11,6 +11,8 @@ Night at the Museum: A spring website will be created through a local host. Ther
 
 ## Big Ticket Items ##
 
+<img width="771" alt="Screen Shot 2021-01-27 at 8 01 51 AM" src="https://user-images.githubusercontent.com/71453341/106018351-44b43400-6076-11eb-85a3-48a61aa70f7f.png">
+<img width="769" alt="Screen Shot 2021-01-27 at 8 02 24 AM" src="https://user-images.githubusercontent.com/71453341/106018358-467df780-6076-11eb-9ca5-a9399211193b.png">
 
 
 ### Members' Github Links ###
