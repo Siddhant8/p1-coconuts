@@ -4,6 +4,9 @@
 
 Summary: Our project involves creating a tea shop web server using Spring, and interacting with the tea shop in various ways. These “various ways” would be a jukebox, or ordering a beverage, or a coronavirus case tracker in the area (just to name a few). Some of these would be independent due to simplicity, but could also involve collaboration to blow them up in proportion. For example, the coronavirus tracker may start out as just a text box but then be blown up into an animation. 
 
+## Projections (Ticket Items) ##
+Aidan: I intend to first port over my Java code to Spring using my already-made MVC, then modifying it to work with HTML. I then intend to integrate with Andrew Hale's website somewhat (which means I may just use REACT instead of Spring). Lastly, I will try and study AWS, then reconfigure my JukeBox such that the information uploads to a server. Andrew Hale seems to be working on a server-like project, so I will also probably collaborate with him.
+
 ## Delivery Plans and Content ##
 Friday Plans: Update the scrum board with goals completed for the week to achieve the necessary goals for Night at the Museum. 
 
