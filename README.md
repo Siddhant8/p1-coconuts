@@ -12,6 +12,14 @@ Friday Plans: Update the scrum board with goals completed for the week to achiev
 
 Night at the Museum: A spring website will be created through a local host. There will be a button to click for the tea shop, JukeBox, and coronavirus calculator. 
 
+## Coronavirus Cases ##
+<img width="1023" alt="Screen Shot 2021-02-18 at 2 35 08 PM" src="https://user-images.githubusercontent.com/71453341/108431141-56ad7080-71f7-11eb-9f27-829151247742.png">
+
+The home page contains a table of San Diego County's Coronavirus Cases. Click "Get The San Diego Coronavirus Statistics From Our Built - In Database" to view the built-in database of coronavirus cases for San Diego County. Currently the table does not retrieve cases from the database.
+
+<img width="930" alt="Screen Shot 2021-02-18 at 2 45 26 PM" src="https://user-images.githubusercontent.com/71453341/108431629-fb2fb280-71f7-11eb-8f08-857cc967fc26.png">
+This is what the contents of the database will look like. Click the back arrow to go back to the home page. It is the same as going to the previous page on any other website.
+
 ## Big Ticket Items ##
 
 <img width="771" alt="Screen Shot 2021-01-27 at 8 01 51 AM" src="https://user-images.githubusercontent.com/71453341/106018351-44b43400-6076-11eb-85a3-48a61aa70f7f.png">
