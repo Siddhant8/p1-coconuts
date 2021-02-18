@@ -1,6 +1,6 @@
 # README for p1-coconuts #
 https://www.p1coconuts.tk/
-<br>https://github.com/AndrewH06/coconutschat
+<br>https://coconutschat.tk/
 <br>https://p1coconuts.herokuapp.com/cases 
 
 ## Project Plan ##
